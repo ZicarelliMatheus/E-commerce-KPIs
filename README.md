@@ -2,7 +2,7 @@
 
 # [E-commerce-KPIs](https://app.powerbi.com/view?r=eyJrIjoiM2EwNDJlMGQtMWJjNy00YjZhLWEzYTEtZmYxMjU2OGM3OGFjIiwidCI6Ijc5YWE0ZWFlLTk0MGMtNDc5Yy1hMjllLTk4YTczY2NhMzhlMiJ9)
 
-A group project using Power BI to identify the factors that impact user experience in e-commerce. This project was developed by me and Bruno Perrotta.
+A group project using Power BI to identify the factors that impact user experience in e-commerce. This project was developed by me, Bruno Perrotta and Luana Machado.
 
 We focused on the relationship between these five crucial parameters:
 Session Duration
