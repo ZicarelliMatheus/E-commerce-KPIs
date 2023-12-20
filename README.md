@@ -4,7 +4,7 @@
 
 A group project using Power BI to identify the factors that impact user experience in e-commerce. This project was developed by me and Bruno Perrotta.
 
-We focus on the relationship between these five crucial parameters:
+We focused on the relationship between these five crucial parameters:
 Session Duration
 Conversion Rate
 Number of Sessions
